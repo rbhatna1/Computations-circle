@@ -23,6 +23,7 @@ def cal(a):
     print("the area of the number is",area)
 
 choice=0
+car="big"
 
 while choice!=5:
     print("1)To find the area and circumference using the biggest value")
